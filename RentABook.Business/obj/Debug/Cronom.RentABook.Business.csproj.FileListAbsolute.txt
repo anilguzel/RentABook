@@ -1,0 +1,14 @@
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\Cronom.RentABook.Business.dll.config
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\Cronom.RentABook.Business.dll
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\Cronom.RentABook.Business.pdb
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\EntityFramework.dll
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\PostSharp.dll
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\EntityFramework.xml
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\PostSharp.xml
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\bin\Debug\Cronom.RentABook.Business.pssym
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\obj\Debug\Cronom.RentABook.Business.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\obj\Debug\Cronom.RentABook.Business.dll.postsharp
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\obj\Debug\Cronom.RentABook.Business.dll
+C:\Users\ANIL\Documents\Visual Studio 2017\Projects\Cronom-RentaBook\Cronom.RentABook\Cronom.RentABook.Business\obj\Debug\Cronom.RentABook.Business.pdb
